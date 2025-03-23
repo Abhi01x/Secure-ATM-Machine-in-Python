@@ -1,0 +1,8 @@
+{
+    "1234567890": {
+        "pin": "5e884898da28047151d0e56f8dc6292773603d0d6aabbddcbfcad16e8c9e0b3c",
+        "balance": 1000.0,
+        "transactions": [],
+        "email": "user@example.com"
+    }
+}
